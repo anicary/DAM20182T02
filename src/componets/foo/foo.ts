@@ -8,5 +8,6 @@ export class MyComponent {
     constructor() {}
     isClicked(val) {
     console.log('Vegetariano: ' + val);
+    
  }
 }
